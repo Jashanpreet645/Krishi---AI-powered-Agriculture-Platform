@@ -1,0 +1,86 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+.env/
+
+# Build outputs
+dist/
+build/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+config/config.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploads
+uploads/
+*.pkl
+*.pt
+*.h5
+*.joblib
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Frontend specific
+Frontend/dist/
+Frontend/.vite/
+Frontend/node_modules/
+
+# Backend specific
+Backend/uploads/
+Backend/.env
+
+# ML Services
+ml-services/*/models/*.pkl
+ml-services/*/models/*.pt
+ml-services/*/__pycache__/
+ml-services/*/.env
+
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+package.json
+Krishi.pdf
