@@ -1,0 +1,12 @@
+{
+  "name": "krishi-final",
+  "version": "1.0.0",
+  "description": "A comprehensive agricultural platform that leverages machine learning to provide crop recommendations, fertilizer suggestions, and plant disease detection services. This hackathon project combines a modern web frontend, a robust backend API, and AI-powered services deployed on Hugging Face Spaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

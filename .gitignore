@@ -79,8 +79,6 @@ ml-services/*/models/*.pt
 ml-services/*/__pycache__/
 ml-services/*/.env
 
-package-lock.json
-pnpm-lock.yaml
+
 yarn.lock
-package.json
 Krishi.pdf
