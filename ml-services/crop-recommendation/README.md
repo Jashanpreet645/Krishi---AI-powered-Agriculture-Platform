@@ -1,3 +1,12 @@
+---
+title: Crop Recommendation
+emoji: 🌱
+colorFrom: green
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # 🌾 Crop Recommendation Service
 
 FastAPI service for recommending crops based on environmental and soil conditions.
